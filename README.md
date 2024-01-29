@@ -6,11 +6,11 @@ I am a versatilist and easily adapt to different hats (Firmware developer, PCB D
 ### Skills & Tools 💻
 #### *Firmware*
 ![STM32](https://img.shields.io/badge/ST-STM32-blue?style=for-the-badge&logoColor=violet&labelColor=yellow&color=blue) 
-![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 ![Nvidia Jetson](https://img.shields.io/badge/nvidia-jetson-blue?style=for-the-badge&labelColor=black&color=green) 
+![upython](https://img.shields.io/badge/m-micropython-blue?style=for-the-badge&labelColor=black&color=white)  
+![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![upython](https://img.shields.io/badge/m-micropython-blue?style=for-the-badge&labelColor=black&color=white)
 
 #### *PCB Design*
 ![Altium](https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white)
