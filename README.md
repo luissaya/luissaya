@@ -1,9 +1,18 @@
 ### Hi there, I'm Luis 👋
   
-I am a versatilist and easily adapt to different hats (Firmware developer, PCB Designer, IoT) depending on what the project requires. I love exploring new tech and leveraging them to build cool stuffs 🛠️.
+I am a versatilist and easily adapt to different hats (Digital IC design, Firmware developer, IoT and PCB Designer) depending on what the project requires. I love exploring new tech and leveraging them to build cool stuffs 🛠️.
 
 ---
 ### Skills & Tools 💻
+
+#### *IC Design*
+![Cadence Genus](https://img.shields.io/badge/Cadence-Genus-red?style=for-the-badge&labelColor=black&color=red)
+![Cadence Innovus](https://img.shields.io/badge/Cadence-Innovus-red?style=for-the-badge&labelColor=black&color=darkred)
+![Xcelium](https://img.shields.io/badge/Cadence-Xcelium-darkred?style=for-the-badge&labelColor=black&color=firebrick)  
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge&labelColor=black&color=blue)  
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-HVL-purple?style=for-the-badge&labelColor=black&color=purple)  
+![UVM](https://img.shields.io/badge/UVM-Universal_Verification_Methodology-orange?style=for-the-badge&labelColor=black&color=orange)
+
 #### *Firmware*
 ![STM32](https://img.shields.io/badge/ST-STM32-blue?style=for-the-badge&logoColor=violet&labelColor=yellow&color=blue) 
 ![Nvidia Jetson](https://img.shields.io/badge/nvidia-jetson-blue?style=for-the-badge&labelColor=black&color=green) 
